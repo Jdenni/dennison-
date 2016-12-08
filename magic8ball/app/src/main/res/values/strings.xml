@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Magic8Ball</string>
+    <string name="submitbutton">Submit Question</string>
+
+    <string-array name="text">
+        <item> "It is certain"</item>
+        <item> "Most likely"</item>
+        <item> "Most definitley!"</item>
+        <item> "yes"</item>
+        <item> "No"</item>
+        <item> "Cannot predict now"</item>
+        <item> "Don't count on it"</item>
+        <item> "There is a good chance"</item>
+        <item> "Very Doubtful"</item>
+        <item> "Ask again later"</item>
+        <item> "Ha!...In your dreams"</item>
+        <item> "No way"</item>
+        <item> "Of course!"</item>
+        <item> "My sources tell me no"</item>
+        <item> "My sources tell me yes"</item>
+        <item> "I probably shouldn't say"</item>
+        <item> "Probably"</item>
+    </string-array>
+
+    <string name="title_activity_answerpage">answerpage</string>
+
+</resources>
